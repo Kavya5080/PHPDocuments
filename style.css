@@ -78,6 +78,26 @@ li a:hover:not(.active) {
             border-radius: 15px ;  
               
     }  
+    .login1{  
+      width: 382px;  
+      overflow: hidden;  
+   
+      margin: 90 0 0 350px;  
+      padding: 80px;  
+      background: #23463f;  
+      border-radius: 15px ;  
+        
+}  
+    .disp{  
+      width: 500px;
+      overflow: hidden;   
+      margin: auto;  
+      margin: 20 0 0 450px;  
+      padding: 80px;  
+      background:coral;  
+      border-radius: 15px ;  
+        
+    }  
     h2{  
         text-align: center;  
         color: #277582;  
@@ -155,4 +175,23 @@ li a:hover:not(.active) {
   text-align: center;
 }
     
-   
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid#dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color:#dddddd;
+}
+
+a
+{
+  color:red;
+}

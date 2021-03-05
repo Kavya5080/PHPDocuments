@@ -33,7 +33,7 @@
     <title>Document</title>
     <link rel="stylesheet" href="style.css">
 
-</head>s
+</head>
 <body>
     
 <div class="header" >
